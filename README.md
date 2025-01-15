@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce projet à pour but de vous excercer sur l'utilisation d'outils comme Postman, Insomnia, etc. pour tester des API RESTful. Il s'agit d'une API basique qui permet de récupérer des données stockées dans un fichier JSON.
+Ce projet a pour but de vous exercer sur l'utilisation d'outils comme Postman, Insomnia, etc. pour tester des API RESTful. Il s'agit d'une API basique qui permet de récupérer des données stockées dans un fichier JSON.
 
 ## Technologies Utilisées
 
@@ -57,9 +57,9 @@ Pour installer le projet, assurez-vous d'avoir Node.js installé sur votre machi
 
 ![boom GIF - Find & Share on GIPHY](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhiM2Z0cjRwbHA0cXdxYjVxYjA3b2tzanBvcWFqZ2N6eTl2ajl3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O3GqAYR9jFxLi/giphy.gif)
 
-NOOOOON, une bombe à explosé !! 😱
+NOOOOON, une bombe a explosé !! 😱
 
-Le reste de la documentation à disparue.. Il faut donc que tu la recrée. Tu peux t'inspirer de ce qui a été fait pour les deux premières routes.
+Le reste de la documentation à disparue... Il faut donc que tu la recrées. Tu peux t'inspirer de ce qui a été fait pour les deux premières routes.
 
 Tu peux bien évidemment le faire sur excalidraw, draw.io, ou tout autre outil de ton choix. Pas obligé de le faire en markdown.
 
@@ -72,7 +72,7 @@ Pour t'aider, tu peux utiliser un outil qui a été créé par un de nos collèg
 -   Je souhaite avoir un screenshot de tous les articles.
 -   Je souhaite avoir un screenshot de l'article avec l'id 2.
 -   Je souhaite modifier l'article l'id 3 et avoir un screenshot.
--   Je souhaite supprimer l'article avec l'id 11 et avoir un screenshot. (il faut peut être la créer je ne sais pas 😁 [en fait, si je sais, mais je ne vais pas te le dire])
+-   Je souhaite supprimer l'article avec l'id 11 et avoir un screenshot. (Il faut peut-être la créer, je ne sais pas 😁 [en fait, si je sais, mais je ne vais pas te le dire])
 -   Je souhaite ajouter un nouvel article et avoir un screenshot.
 
 ## Contact Us
